@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shuvam588243
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shuvam Sengupta
+- 👀 I’m interested in Web Development, UI/UX Designing
+- 🌱 I’m currently doing Internship in ShapeAI as an Full Stack MERN Developer
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 You can reach me on shuvamsengupta58824@gmail.com
 
 <!---
 Shuvam588243/Shuvam588243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
